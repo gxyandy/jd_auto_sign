@@ -1,2 +1,5 @@
 pushplus_token: 96333e58c8a643018b13443f9bfdd1fc
+refresh_token: 123456abc ## 阿里云网盘刷新token
+bilibili_cookie: 123456abc ## B站cookie
+kk_cookie: 123456abc ##夸克网盘cookie
 jd_cookie: pt_key=AAJmQbDdADCVApSUJpfaaiNgh1wram63bfX08cnNE4Ifd6e48awQ6r5r4JsdizKBGo2Q50qvNHA;pt_pin=tomoon83;
